@@ -1,4 +1,3 @@
-# dev.catalyst.example.final
-Finished example of DevCatalyst PD Workshop
+Michael's personal website
 
 (Responsive/Bootstrap)
